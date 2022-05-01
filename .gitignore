@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+.vs/
+LabActivity/Debug
+Project1/Debug
